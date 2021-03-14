@@ -1,0 +1,35 @@
+$themeColor:#e50914;
+$secondaryColor: #e509149a;
+
+.container{
+  width: 350px;
+  text-align: center;
+  .poster{
+    width: 250px;
+  }
+  .title{
+    margin: 15px auto 20px;
+    font-size: 30px;
+  }
+  .intro{
+    margin: 0 0 40px;
+    text-align: justify;
+    line-height: 1.4;
+  }
+  .reBtn{
+    font-family: 'TmonMonsori';
+    width: 150px;
+    height: 45px;
+    border: 0;
+    border-radius: 25px;
+    color: white; 
+    background-color: $themeColor;
+    font-size: 20px;
+    outline: none;
+  }
+  .reBtn:active{
+    font-size: 18px;
+    background-color: $secondaryColor;
+    outline: none;
+  }
+}
