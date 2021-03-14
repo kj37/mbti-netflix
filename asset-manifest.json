@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mbti-netflix/static/css/main.965733e8.chunk.css",
-    "main.js": "/mbti-netflix/static/js/main.4d63d95d.chunk.js",
+    "main.css": "/mbti-netflix/static/css/main.459acae6.chunk.css",
+    "main.js": "/mbti-netflix/static/js/main.546084dd.chunk.js",
     "runtime-main.js": "/mbti-netflix/static/js/runtime-main.94a0a57e.js",
     "static/js/2.d4c95707.chunk.js": "/mbti-netflix/static/js/2.d4c95707.chunk.js",
     "index.html": "/mbti-netflix/index.html",
@@ -10,7 +10,7 @@
   "entrypoints": [
     "static/js/runtime-main.94a0a57e.js",
     "static/js/2.d4c95707.chunk.js",
-    "static/css/main.965733e8.chunk.css",
-    "static/js/main.4d63d95d.chunk.js"
+    "static/css/main.459acae6.chunk.css",
+    "static/js/main.546084dd.chunk.js"
   ]
 }
