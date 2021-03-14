@@ -13,7 +13,7 @@ export default class Main extends React.Component{
                 <li><a onClick={() => this.props.handleBegin(3)}>긴장감 넘치는 영화</a></li>
               </ul>
             </div>
-            <p className="maker">MADE BY LAZY CODER</p>
+            <p className="maker">MADE BY KJ37</p>
         </div>)
     }
 }
